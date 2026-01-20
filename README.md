@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 PWA + ESP32 IoT Project
 
 Sistema IoT completo con ESP32, PWA instalable y servidor Node.js en Railway.
@@ -123,3 +124,7 @@ Tu nombre aquí
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Por favor abre un issue o PR.
+=======
+# pwa_esp32
+manejo en ppwa un esp32
+>>>>>>> 216faf499263c47d560c25223d95f22e430f365c
